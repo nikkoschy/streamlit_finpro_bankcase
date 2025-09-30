@@ -1,3 +1,4 @@
+pip==25.2
 category-encoders==2.8.1
 imbalanced-learn==0.14.0
 lightgbm==4.6.0
@@ -10,6 +11,7 @@ scipy==1.13.1
 shap==0.48.0
 statsmodels==0.14.2
 xgboost==3.0.5
+
 
 
 
