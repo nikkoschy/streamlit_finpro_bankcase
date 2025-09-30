@@ -4,8 +4,6 @@ dython==0.7.9
 imbalanced-learn==0.12.3
 joblib==1.4.2
 lightgbm==4.6.0
-lime==0.2.0.1
-Markdown==3.4.1
 matplotlib==3.9.2
 numpy==2.2.4
 pandas==2.2.3
@@ -16,7 +14,7 @@ scipy==1.13.1
 seaborn==0.13.2
 shap==0.48.0
 statsmodels==0.14.2
-streamlit==1.37.1
 xgboost==3.0.5
 
 jcdsol-enigma-finprobank/__init__.py
+
