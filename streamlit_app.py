@@ -15,7 +15,7 @@ if 'y' not in user_session:
 
 ##testing markdown
 st.markdown(f"""
-    # Hasil Prediksi: 
+    # Prediction Result: 
     # :red[{user_session['y']}]
 """)
 
