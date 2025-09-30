@@ -1,6 +1,5 @@
 category-encoders==2.8.1
-dython==0.7.9
-imbalanced-learn==0.12.3
+imbalanced-learn==0.14.0
 joblib==1.4.2
 lightgbm==4.6.0
 matplotlib==3.9.2
@@ -13,7 +12,5 @@ seaborn==0.13.2
 shap==0.48.0
 statsmodels==0.14.2
 xgboost==3.0.5
-
-jcdsol-enigma-finprobank/__init__.py
 
 
